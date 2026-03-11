@@ -20,7 +20,7 @@ En este repositorio encontrarán los archivos clave que hacen parte de nuestra a
    ```bash
    docker-compose up --build
    ```
-3. Lee atentamente los errores (logs) que te arroja la terminal. ¡Ahí están las pistas!
+3. Lee atentamente los errores (logs) que te arroja la terminal.
 4. Analiza la estructura de los puertos, los nombres de los archivos y las variables expuestas.
 5. Corrige los bugs distribuidos en los archivos.
 6. El reto local se completa cuando puedas entrar a `http://localhost:8080` en tu navegador y veas el mensaje: **"¡Felicidades! Has escapado del cuarto de DevOps."**
